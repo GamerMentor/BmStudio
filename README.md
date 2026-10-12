@@ -1,4 +1,4 @@
-# BmStudio 0.21 — source code
+# BmStudio 0.21
 
 An editor for the cooked packages of **Batman: Arkham Asylum (PC, UE3 v576 / licensee 21)**.
 It reads and writes `.u` / `.upk` / `.umap` files without re-cooking. Saving without changes produces a byte-identical file.
